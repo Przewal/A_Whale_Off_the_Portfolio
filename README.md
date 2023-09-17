@@ -5,7 +5,7 @@ __Python File:__ `whale_analysis.ipynb`
 ## Background
 In this project, I embarked on an extensive journey to analyze and compare the performance of various investment portfolios. My dataset comprised historical daily returns for a diverse set of portfolios, ranging from algorithmic trading strategies to the renowned "whale" investors' portfolios and major hedge and mutual funds. My primary mission was to identify the portfolio that outshines the rest, considering key metrics such as volatility, returns, risk, and Sharpe ratios.
 
-Additionally, I ventured into creating a custom portfolio, carefully selecting 3-5 stocks from the vast stock market, and meticulously evaluating its performance. My ultimate goal was to determine whether my custom portfolio could stand toe-to-toe with the giants of algorithmic trading.
+Additionally, I ventured into creating a custom portfolio, carefully selecting 3 stocks (took the available ones) from the vast stock market, and meticulously evaluating its performance.The ultimate goal was to determine whether the custom portfolio could stand toe-to-toe with the giants of algorithmic trading.
 
 ## Reference datasets
 
